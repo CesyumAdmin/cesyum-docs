@@ -9,6 +9,10 @@ Bienvenue dans la documentation officielle de **CESYUM**, la plateforme intellig
 * [Politique de Confidentialit&eacute;](juridique/confidentialite.md)
 * [Politique de Cookies](juridique/cookies.md)
 
+## Marque
+
+* [Kit Logo](marque/kit-logo.md)
+
 ## Liens utiles
 
 * Site web : [cesyum.com](https://www.cesyum.com)
