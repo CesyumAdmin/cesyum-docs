@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Accueil](README.md)
+* [Support & Assistance](support.md)
 
 ## Juridique
 
